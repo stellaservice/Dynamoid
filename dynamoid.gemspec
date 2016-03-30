@@ -1,8 +1,8 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "dynamoid"
-  s.version = "1.1.0"
+  s.name = "dynamoid-edge"
+  s.version = "1.1.2"
 
   # Keep in sync with README
   s.authors = [
